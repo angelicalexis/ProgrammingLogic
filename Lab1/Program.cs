@@ -14,7 +14,7 @@
       */
 
       // Step 3
-      int num = 7;
+      int num = 5;
       string lang = "Python";
       double progs = 2.50;
       bool expert = true;
