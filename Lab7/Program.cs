@@ -21,7 +21,6 @@ class Book
     public Book(string title)
     {
         this.title = title;
-        author = "Unknown Author"; 
     }
 
     //Problem 3
