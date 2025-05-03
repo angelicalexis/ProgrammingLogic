@@ -44,8 +44,8 @@ class Book
     //Problem 3
     public string Author
     {
-        get { return author; }
-        set { author = value; }
+        get {return author;}
+        set {author = value;}
     }
 
     public void SetAuthor(string newAuthor)
